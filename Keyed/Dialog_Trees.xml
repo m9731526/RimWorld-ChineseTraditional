@@ -8,7 +8,7 @@
   <Disconnect>切斷連線</Disconnect>
 
   <OfferGift>贈與禮物</OfferGift>
-  <NeedSilverLaunchable>需要{0}在交易信標下範圍內的白銀。</NeedSilverLaunchable>
+  <NeedSilverLaunchable>需要{0}白銀，請確保在交易信標籠罩範圍內有足夠的數量。</NeedSilverLaunchable>
   <NotEnoughSilver>白銀不足。</NotEnoughSilver>
   <SilverForGoodwill>每{0}白銀增加{1}好感度</SilverForGoodwill>
   <SilverGiftSent>{0}的代表對你表示感謝。\n\n(好感度增加了{1})。</SilverGiftSent>
