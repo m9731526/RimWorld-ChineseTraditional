@@ -20,7 +20,7 @@
   <AreaRevealed>發現了一片新的地區。</AreaRevealed>
   <AreaRevealedWithMechanoids>我們發現了一片新的區域，裡頭滿是充滿敵意的古老機器人！</AreaRevealedWithMechanoids>
 
-  <RoofCollapsed>一部分屋頂因為距離最近的支撐點過遠而坍塌了。</RoofCollapsed>
+  <RoofCollapsed>一部分屋頂因為失去了支撐而坍塌了。</RoofCollapsed>
   <TheseThingsCrushed>這些東西被壓到了:</TheseThingsCrushed>
   <NothingCrushed>所幸沒有東西被壓到。</NothingCrushed>
   <LetterLabelRoofCollapsed>屋頂坍塌</LetterLabelRoofCollapsed>
