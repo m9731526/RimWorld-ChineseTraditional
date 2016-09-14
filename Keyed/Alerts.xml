@@ -9,10 +9,10 @@
   <NeedSawmillDesc>你需要鋸木機才能把原木鋸成實用的木板。\n\n建造一個手工鋸木機或電動鋸木機。</NeedSawmillDesc>
   
   <PoorMood>心情低落</PoorMood>
-  <PoorMoodDesc>這名殖民者正處於低落的情緒之中，並隨時有可能出現輕微的情緒發洩：\n\n{0}</PoorMoodDesc>
+  <PoorMoodDesc>這名殖民者正處於低落的情緒之中，可能會隨時適度地發洩情緒：\n\n{0}</PoorMoodDesc>
   <TerribleMood>瀕臨崩潰</TerribleMood>
   <TerribleMoodDesc>這名殖民者的情緒已經瀕臨崩潰，隨時有可能出現激進的行為，甚至有潛在的暴力危機：\n\n{0}</TerribleMoodDesc>
-  <LowMoodDescEnding>確認這名殖民的心情面板，看看有哪些事情正困擾著他。</LowMoodDescEnding>
+  <LowMoodDescEnding>確認這名殖民者的心情面板，看看有哪些事情正困擾著他。</LowMoodDescEnding>
 
   <ColonistNeedsRescue>有殖民者需要救援</ColonistNeedsRescue>
   <ColonistsNeedRescue>多個殖民者需要救援</ColonistsNeedRescue>
@@ -25,26 +25,26 @@
   <NeedDefensesDesc>你已經在這裡待了一段時間，可能已經被別人發現了。很快的將會有海賊來襲。\n\n你應該建立一些防禦工事，比如陷阱、沙包或機槍炮塔。</NeedDefensesDesc>
 
   <NeedDoctor>需要醫生</NeedDoctor>
-  <NeedDoctorDesc>這些需要治療的患者在床上無法行動，但是你沒有將醫生工作分配給任何健康的人。\n\n{0}\n給一個健康的殖民者分配醫生工作。如果患者沒有被及時醫治，這些傷口可能永遠不會痊癒，或留下永久性的傷痕。</NeedDoctorDesc>
+  <NeedDoctorDesc>這些需要治療的患者在床上無法行動，但是其他健康的人之中沒有人被指派醫生工作。\n\n{0}\n給一個健康的殖民者分配醫生工作。如果患者沒有被及時醫治，這些傷口可能永遠不會痊癒，或留下永久性的傷痕。</NeedDoctorDesc>
 
   <NeedMiner>需要礦工</NeedMiner>
-  <NeedMinerDesc>你佈置置了一些岩石開採工作，但是沒有殖民者在做採礦工作。\n\n給一個殖民者分配採礦工作。</NeedMinerDesc>
+  <NeedMinerDesc>你佈置置了一些岩石開採工作，但是沒有殖民者被指派採礦工作。\n\n給一個殖民者分配採礦工作。</NeedMinerDesc>
 
   <NeedWarden>需要獄卒</NeedWarden>
-  <NeedWardenDesc>你有一名俘虜，但是沒有殖民者在做獄卒工作。\n\n給一個殖民者分配獄卒工作。</NeedWardenDesc>
+  <NeedWardenDesc>你有俘虜，但是沒有殖民者被指派為獄卒。\n\n給一個殖民者分配獄卒工作。</NeedWardenDesc>
 
   <LowFood>食物不足</LowFood>
-  <LowFoodDesc>你所有的食物只夠再吃飽{0}頓，這個數量低的危險。\n\n種、買、找或者去打一些食物來。</LowFoodDesc>
+  <LowFoodDesc>你所有的食物只夠再吃飽{0}頓，這個數量已經低於安全水準。\n\n栽種、購買、尋找或者去打獵以獲得食物。</LowFoodDesc>
 
   <LowMedicine>藥品不足</LowMedicine>
   <LowMedicineDesc>你只剩下{0}份藥品。\n\n向商人購買一些藥品。</LowMedicineDesc>
   <NoMedicineDesc>你的藥品已經用盡。\n\n向商人購買一些藥品。</NoMedicineDesc>
 
   <NeedColonistBeds>需要殖民者床</NeedColonistBeds>
-  <NeedColonistBedsDesc>你的殖民者人數比你擁有的床多，有人將會沒有地方睡覺。\n\n建造更多床，或者將一些俘虜床更改成殖民者床。\n\n若你沒有足夠資源可以造床，睡眠點可以提供免費且立即性的床位。</NeedColonistBedsDesc>
+  <NeedColonistBedsDesc>你的殖民者人數多於床鋪的數量，有人將會沒有地方睡覺。\n\n建造更多床，或者將一些俘虜床更改成殖民者床。\n\n若你沒有足夠資源可以造床，睡眠點可以提供免費且立即性的床位。</NeedColonistBedsDesc>
 
   <HunterLacksWeapon>獵人需要裝備武器</HunterLacksWeapon>
-  <HunterLacksWeaponDesc>有殖民者被指派為獵人卻沒有武器，在沒有武器的情況下他們將不會進行打獵工作。\n\n為了避免受傷，我們建議替獵人裝備遠距離武器。</HunterLacksWeaponDesc>
+  <HunterLacksWeaponDesc>有殖民者被指派為獵人卻沒有武器，在沒有武器的情況下他們將無法進行打獵工作。\n\n為了避免受傷，我們建議替獵人裝備遠距離武器。</HunterLacksWeaponDesc>
   
   <Starvation>飢餓</Starvation>
   <StarvationDesc>這些殖民者快餓死了：\n\n{0}\n給他們弄點食物。你需要一個食物的來源，比如一個營養膏合成機配上足夠的食物供給。另外，確保他們不在被徵召的狀態。</StarvationDesc>
@@ -60,7 +60,7 @@
 
   <BuildingNeedsPower>有建築需要電力</BuildingNeedsPower>
   <BuildingsNeedPower>多個建築需要電力</BuildingsNeedPower>
-  <BuildingsNeedPowerDesc>沒有任何電源連接著這些需要電力的建築:\n\n{0}\n將它們和一個發電機或電池連接在一起。</BuildingsNeedPowerDesc>
+  <BuildingsNeedPowerDesc>沒有任何電源連接著這些需要電力的建築:\n\n{0}\n將它們和發電機或電池連接在一起。</BuildingsNeedPowerDesc>
   <AndMore>以及更多</AndMore>
   
   <NeedMealSource>需要料理設備</NeedMealSource>
@@ -91,10 +91,10 @@
   <ColonistsIdleDesc>這些殖民者們正無所事事的四處閒晃：\n\n{0}\n你應該給他們找點有意義的事情來做。</ColonistsIdleDesc>
   
   <ColonistNeedsTreatment>殖民者需要治療</ColonistNeedsTreatment>
-  <ColonistNeedsTreatmentDesc>以下殖民者需要接受治療。如果沒有被治療，他們可能因這些傷口而死，或沒治癒的傷口進而變成永久性的創傷。\n\n{0}\n將他們送到一個醫療床或病床上以接受治療。\n\n(首先將一張床設為病床，接著選擇受傷的殖民者並右擊病床來將他們設為患者。)</ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatmentDesc>以下殖民者需要接受治療。如果沒有被治療，他們可能因這些傷口而死，或者留下永久性的創傷。\n\n{0}\n將他們送到一個醫療床或病床上以接受治療。\n\n(首先將一張床設為病床，接著選擇受傷的殖民者並右擊病床來將他們設為患者。)</ColonistNeedsTreatmentDesc>
   
-  <AlertHypothermia>體溫過低</AlertHypothermia>
-  <AlertHypothermiaDesc>下列殖民者正受到體溫過低的折磨：\n\n{0}\n確保他們的服裝足夠保暖，並且提供溫暖的室內空間。</AlertHypothermiaDesc>
+  <AlertHypothermia>失溫警告</AlertHypothermia>
+  <AlertHypothermiaDesc>下列殖民者正受到失溫的折磨：\n\n{0}\n確保他們的服裝足夠保暖，並且提供溫暖的室內空間。</AlertHypothermiaDesc>
   
   <PatientsAwaitingMedicalOperation>{0}位病患正等待接受手術</PatientsAwaitingMedicalOperation>
   <PatientsAwaitingMedicalOperationDesc>這位病患正等待接受手術:\n\n{0}\n確保你擁有必需的醫療器材與醫療人員。</PatientsAwaitingMedicalOperationDesc>
