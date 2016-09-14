@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <CommandForbiddenDesc>已禁止——殖民者不會和這個物件互動。</CommandForbiddenDesc>
-  <CommandNotForbiddenDesc>未禁止-殖民者會和這個物件互動。</CommandNotForbiddenDesc>
+  <CommandForbiddenDesc>禁止互動——殖民者會無視這個物件。</CommandForbiddenDesc>
+  <CommandNotForbiddenDesc>開放互動——殖民者會和這個物件互動。</CommandNotForbiddenDesc>
   
   <!-- Power -->
   
   <CommandTogglePowerLabel>開關電源</CommandTogglePowerLabel>
   <CommandTogglePowerDesc>開關電源。</CommandTogglePowerDesc>
   
-  <CommandDesignateTogglePowerLabel>指定開/關電源</CommandDesignateTogglePowerLabel>
-  <CommandDesignateTogglePowerDesc>指定開/關這項物件的電源。一名殖民者將會前往操作。</CommandDesignateTogglePowerDesc>
+  <CommandDesignateTogglePowerLabel>命令開/關電源</CommandDesignateTogglePowerLabel>
+  <CommandDesignateTogglePowerDesc>下令開啟/關閉這項物件的電源。一名殖民者將會前往操作。</CommandDesignateTogglePowerDesc>
   
   <CommandTryReconnectLabel>重新連接</CommandTryReconnectLabel>
   <CommandTryReconnectDesc>嘗試連接至附近另一個電網。在目前連接的電網沒有電但附近有另一個電網時很有用。</CommandTryReconnectDesc>
@@ -26,13 +26,13 @@
   <IsIncapped>{0}無法動彈。</IsIncapped>
   
   <CommandClearPrioritizedWork>取消優先工作</CommandClearPrioritizedWork>
-  <CommandClearPrioritizedWorkDesc>取消目前優先進行的工作，讓殖民者回歸正常工作。</CommandClearPrioritizedWorkDesc>
+  <CommandClearPrioritizedWorkDesc>取消目前優先進行的工作，讓殖民者自行工作。</CommandClearPrioritizedWorkDesc>
   
   <CommandCancelConstructionLabel>取消</CommandCancelConstructionLabel>
   <CommandCancelConstructionDesc>取消建造命令。</CommandCancelConstructionDesc>
   
-  <CommandGetOutOfBedLabel>離床</CommandGetOutOfBedLabel>
-  <CommandGetOutOfBedDesc>離床。</CommandGetOutOfBedDesc>
+  <CommandGetOutOfBedLabel>離開床</CommandGetOutOfBedLabel>
+  <CommandGetOutOfBedDesc>離開床。</CommandGetOutOfBedDesc>
   
   <CommandBedSetOwnerLabel>自訂擁有者</CommandBedSetOwnerLabel>
   <CommandBedSetOwnerDesc>分派此床位給特定的殖民者。</CommandBedSetOwnerDesc>
