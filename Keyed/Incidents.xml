@@ -2,8 +2,8 @@
 <LanguageData>
 
   <LetterLabelAnimalInsanitySingle>狂暴動物</LetterLabelAnimalInsanitySingle>
-  <AnimalInsanitySingle>一隻附近的{0}發瘋了。牠會攻擊任何牠見到的人。</AnimalInsanitySingle>
-  <LetterLabelAnimalInsanityMultiple>狂暴動物！</LetterLabelAnimalInsanityMultiple>
+  <AnimalInsanitySingle>一隻附近的{0}發瘋了。牠會攻擊眼前的任何人類。</AnimalInsanitySingle>
+  <LetterLabelAnimalInsanityMultiple>狂暴的獸群！</LetterLabelAnimalInsanityMultiple>
   <AnimalInsanityMultiple>某種干擾電波橫掃了整個地平線。你的殖民者們沒什麼問題，但是……\n\n看來這附近好多{0}都被這玩意兒搞瘋了。</AnimalInsanityMultiple>
   
   <LetterLabelCropBlight>枯萎病</LetterLabelCropBlight>
@@ -54,11 +54,11 @@
   <WandererJoin>一位名叫NAME的{0}來到了這裡並加入了殖民地。HECAP是一位{1}。</WandererJoin>
   
   <LetterLabelManhunterPackArrived>獸群襲擊</LetterLabelManhunterPackArrived>
-  <ManhunterPackArrived>一票專門襲擊人類的{0}抵達了這附近，牠們會在此徘徊，獵殺他們見到的任何活人。\n\n牠們無法通過門，待在室內是安全的選擇。未運作的機槍炮塔也不會成為攻擊目標，如果你想保住它們，記得關掉。\n\n在幾天內牠們是不會離開的。</ManhunterPackArrived>
+  <ManhunterPackArrived>一群食人的{0}抵達了這附近，牠們會在此徘徊，獵殺他們見到的任何活人。\n\n牠們無法通過門，待在室內是安全的選擇。關閉的機槍炮塔不會被動物反擊，如果你想保住它們，記得關掉。\n\n牠們會在附近徘徊好幾天。</ManhunterPackArrived>
   
   <!-- Crashed ship part-->
-  <MessageAnimalInsanityPulse>這塊遠古星艦碎片發射了一股心靈脈衝，這讓它附近的動物都發瘋了。</MessageAnimalInsanityPulse>
-  <LetterShipPartDroveColonistInsane>這塊遠古星艦碎片發射了一股心靈脈衝，它讓{0}發瘋了。</LetterShipPartDroveColonistInsane>
+  <MessageAnimalInsanityPulse>這塊遠古星艦碎片發射了一波心靈脈衝，這讓它附近的動物都發瘋了。</MessageAnimalInsanityPulse>
+  <LetterShipPartDroveColonistInsane>這塊遠古星艦碎片發射了一波心靈脈衝，它讓{0}發瘋了。</LetterShipPartDroveColonistInsane>
   <AwokeDaysAgo>在{0}天前覺醒</AwokeDaysAgo>
   <PsychicDroneLevel>干擾電波等級：{0}</PsychicDroneLevel>
   <PsychicDroneLevelLow>低</PsychicDroneLevelLow>
@@ -74,14 +74,14 @@
   
   <!-- Distant psychic drone -->
   <LetterLabelPsychicDrone>干擾電波</LetterLabelPsychicDrone>
-  <LetterIncidentPsychicDrone>所有{0}殖民者都感到十分痛苦！\n\n一股邪惡在遙遠的地方向這個地區投射了一股強大的干擾電波，它的頻率似乎只影響{0}。接下来幾天之内，有些人的心情會比以往更差一些。</LetterIncidentPsychicDrone>
+  <LetterIncidentPsychicDrone>所有{0}殖民者都感到十分痛苦！\n\n某個邪惡的存在從遠方向這個地區投射了一股強大的干擾電波，它的頻率似乎只影響{0}。接下来幾天之内，有些人的心情會比以往更差一些。</LetterIncidentPsychicDrone>
   
   <LetterLabelPsychicSoothe>撫慰電波</LetterLabelPsychicSoothe>
   <LetterIncidentPsychicSoothe>所有{0}殖民者都在臉上掛上了滿足的笑容！\n\n某個遠方的快樂引擎正在運轉著，它向這個地區投射了一股強大的干擾電波，它的頻率似乎只影響{0}。接下来幾天之内，有些人的心情會特別愉快。</LetterIncidentPsychicSoothe>
 
   <!-- Beavers -->
   <LetterLabelBeaversArrived>海貍</LetterLabelBeaversArrived>
-  <BeaversArrived>一群飢餓的阿爾法海貍抵達了這個區域。\n\n在牠們將這片區域內的最後一棵樹啃食殆盡前剷除牠們！</BeaversArrived>
+  <BeaversArrived>一群飢餓的阿爾法海貍抵達了這個區域。\n\n在牠們將這片區域內的林木啃食殆盡前剷除牠們！</BeaversArrived>
   
   <!-- Refugee chased -->
   <RefugeeChasedInitial>一位名叫{0}的{1}從附近呼叫殖民地。HECAP說他正被來自{3}的{2}追殺！\n\nHECAP請求加入殖民地以獲得庇護。HIS生理年齡是{4}歲。\n\n警告：如果你同意提供庇護，你將必須擊敗緊追在HE身後的{2}！</RefugeeChasedInitial>
@@ -101,7 +101,7 @@
   
   <!-- Thrumbo passes -->
   <LetterLabelThrumboPasses>獨角獸</LetterLabelThrumboPasses>
-  <LetterThrumboPasses>一小群獨角獸正在附近遊蕩。\n\n這種稀有的物種天性溫和，但與牠們對抗可是極端的危險。有些商人願意開出高價收購牠們的角與皮毛。\n\n獨角獸只會在附近停留幾日。</LetterThrumboPasses>
+  <LetterThrumboPasses>一小群獨角獸正在附近遊蕩。\n\n這種稀有的物種天性溫和，但與牠們為敵可是極端危險。有些商人願意開出高價收購牠們的角與皮毛。\n\n獨角獸只會在附近停留幾日。</LetterThrumboPasses>
   
   <!-- Trader caravan -->
   <LetterLabelTraderCaravanArrival>來自{0}的商隊</LetterLabelTraderCaravanArrival>
