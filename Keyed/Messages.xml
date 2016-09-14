@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
   
-  <MessageSiegersAssaulting>圍攻殖民地的{1}開始突擊殖民地。</MessageSiegersAssaulting>
+  <MessageSiegersAssaulting>計畫攻擊殖民地的{1}發動了突襲。</MessageSiegersAssaulting>
   
   <MessageRaidersBeginningAssault>{1}開始了他們的進攻。</MessageRaidersBeginningAssault>
   <MessageRaidersDetectedEarlyAssault>{1}發現了你並提前開始了進攻。</MessageRaidersDetectedEarlyAssault>
@@ -47,8 +47,8 @@
   
   <MessageCriticalAlert>嚴重警報：{0}</MessageCriticalAlert>
   
-  <MessageMustDesignateHarvestable>必須指定已長成可收穫的植物。</MessageMustDesignateHarvestable>
-  <MessageMustDesignateHarvestableWood>必須指定已長成可收穫木頭的樹木。</MessageMustDesignateHarvestableWood>
+  <MessageMustDesignateHarvestable>必須指定已長成、可收穫的植物。</MessageMustDesignateHarvestable>
+  <MessageMustDesignateHarvestableWood>必須指定已長成、可收穫木頭的樹木。</MessageMustDesignateHarvestableWood>
   <MessageMustDesignatePlants>必須指定植物。</MessageMustDesignatePlants>
   <MessageMustDesignateHaulable>必須指定可以搬運的物品。</MessageMustDesignateHaulable>
   <MessageMustDesignateMineable>必須指定可開採的岩石。</MessageMustDesignateMineable>
@@ -92,7 +92,7 @@
   <MessageEatenByPredator>{0}被{1}吃掉了。</MessageEatenByPredator>
   <MessageAttackedByPredator>{0}正被{1}攻擊！</MessageAttackedByPredator>
   
-  <MessageHiveReproduced>一個蟲巢蔓延了。</MessageHiveReproduced>
+  <MessageHiveReproduced>一個蟲巢增殖了。</MessageHiveReproduced>
   
   <MessageTraderCaravanLeaving>來自{0}的商隊離開了。</MessageTraderCaravanLeaving>
   
